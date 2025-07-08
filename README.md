@@ -67,13 +67,13 @@ An interactive and visually clean sales dashboard built in Excel, designed to tr
 ## Files Included
 
 - [Sales Performance Dashboard.xlsx](./Sales%20Performance%20Dashboard.xlsx) — Main dashboard file
-- `Dashbaord` image for quick reference
+- [Dashboard Preview](./Dashboard.png) image for quick reference
 
 ---
 
 ## How to Use
 
-1. Open the `Sales Performance Dashboard.xlsx` file using Excel for Web or Excel Desktop.
+1. Open the [Sales Performance Dashboard.xlsx](./Sales%20Performance%20Dashboard.xlsx) file using Excel for Web or Excel Desktop.
 2. Use the **dropdown filters** near the charts in the sheet with pivot tables to view different segments, regions, or categories.
 3. Analyze KPIs, trends, and charts to derive insights.
 4. Review the insight summary at the bottom for action-oriented takeaways.
