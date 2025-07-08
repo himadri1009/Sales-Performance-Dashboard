@@ -66,7 +66,7 @@ An interactive and visually clean sales dashboard built in Excel, designed to tr
 
 ## Files Included
 
-- `Sales%20Performace%20Dashboard.xlsx` — Main dashboard file
+- [Sales Performance Dashboard.xlsx](./Sales%20Performance%20Dashboard.xlsx) — Main dashboard file
 - `Dashbaord` image for quick reference
 
 ---
